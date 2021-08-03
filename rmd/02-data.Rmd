@@ -1,0 +1,15 @@
+## Data
+
+This section can and should be a bit more formulaic than the ones that came before. It really is as much 'just the facts ma'am' as possible, but the trick is highlighting the facts abut the data that are most relevant to what you're trying to do. The motivating question in putting this section together - which includes figures, tables and written description - should be: "What does the reader need to know about the data to understand the results?" 
+
+### Figures/tables
+
+1. **What can go into a figure?**  Visualizing data is almost always preferable to talking about it or presenting summary statistics in a table. But it requires care: Think about what view(s) of the data is most important for a descriptive 'Figure 1' that provides an introduction to the data and the problem. Remember that the point is *not* to make the reader as much of an expert about the data as you are by the time you write the paper, but be familiar enough with the data to understand both the motivation for the analysis and the results when they come along.
+2. **Do I need a table?** Really, do you need a table? Ok fine, if you do: Keep it short and sweet - present relevant information that is hard to get into a single figure (e.g. cramming the number of people in a study, the proportion in different age groups, attack rates etc. into a figure could be difficult and annoying b/c of the different scales).
+
+### Writeup
+1. **What do the data measure?**
+	1. Include outcomes, covariates, etc. If you have multiple sources (e.g. case data + census) introduce both.
+2. **When/how were they collected? Who collected the data?** This is what is sounds like: Give a sense of the provenence of the data. If they come from a larger/long-term study, refer to earlier analyses from the study. If a published study protocol exists, be sure to cite it. 
+3. **Any important caveats.** Emphasis here is on *important*: What does the reader need to know about what the data *don't* show in order to make sense of the analysis. Don't spend time here getting into nuance - you can do that in the discussion.
+

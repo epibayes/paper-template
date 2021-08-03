@@ -1,1 +1,7 @@
-# paper-template
+# What is the point of all the sections of a research paper?
+
+The relatively rigid format of research papers is often a pain point in scientific writing: What goes in the introduction vs. the discussion? How much detail should be in the methods section? When should I mention limitations of my analysis and why? How do I do this without it coming off as stiff and formulaic?  
+
+After awhile, the inflexibility of the form may actually reveal itself to be freeing, because it provides a template you can use to ensure that your ideas are clearly organized and communicated in a way that as broad an audience as possible can read, extend, and potentially replicate. The key thing to remember is that the sections of a research paper each have a distinct role to play, but also should cohere and interact. Put another way: Your paper is an extended argument about the relationship between a question (*Introduction*), the way you decided to answer it (*Methods*), what came out of it (*Results*),  what it all means (*Discussion*), and what it implies for what is next (*Conclusion*). 
+
+If you start with a clear idea of what you want to accomplish with each of these sections, it will free you up to focus on their content and (hopefully)  make your writing process less painful, more productive, and more successful.

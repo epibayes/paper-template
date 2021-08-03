@@ -1,0 +1,10 @@
+---
+title: "Your Paper"
+author: "You"
+date: \today
+output: pdf_document
+fontsize: 11pt
+geometry: margin=1in
+---
+```{r, child=c('01-introduction.Rmd', '02-data.Rmd', '03-methods.Rmd', '04-results.Rmd','05-discussion.Rmd')}
+```

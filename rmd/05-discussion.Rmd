@@ -1,0 +1,11 @@
+# Discussion
+
+The discussion is where you get to be a bit more expansive and opinionated. As ever though, think about how each of the things you put in here will impact what you are trying to accomplish. I tend to think of the discussion as having its own subsections that roughly look like this:
+
+1. **First paragraph of discussion: Summarize, summarize, summarize.** What did you accomplish? How did your results relate to the problem/hypotheses you laid out in the intro? If I hadn't read the paper at all but just opened it to the discussion and read this paragraph, I should be able to get what you did. 
+
+2. **Second paragraph of discussion: Sell the product.** This is it: time to make the affirmative case for what you did! Why is it important? Why was your approach well-suited to answering the question? What gaps have you worked towards closing that you highlighted in the intro? Again - no need to be negative about other work, just show how you have moved the ball down the field in some meaningful way.
+
+3. **Third paragraph: Limitations.** Writing this part can be uncomfortable or scary sometimes b/c it seems like you are being asked to undermine your work. But a well-written limitations paragraph should add to your credibility by showing you have thought about what can and can't be done with the data available and the methods employed. Try to answer the question of "What question might someone else want to answer that my paper doesn't/can't address?" This is a different question from "What did I do wrong?". Things that are substantial enough to seem 'wrong' are things you need to fix before writing. Limitations are reasonable stopping points for what you are trying to do that demarcate the boundaries of your analysis.
+
+4. **Fourth paragraph: Conclusions.** This is where we tie everything together: What does it all mean and why does it matter? What comes next? What is the big point you want to stick with the reader? Here is where you can get a bit more opinionated and editorialize a bit - but be careful not to go too far beyond the data you have or the results you have generated. 

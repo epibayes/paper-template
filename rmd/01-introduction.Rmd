@@ -1,0 +1,12 @@
+# Introduction
+
+1.  **What is the problem your analysis is meant to address or solve?** Use the first paragraph or two of the introduction to outline the scope and importance of the problem you're addressing.
+2. **What else has been tried?** This is the part where you get into the approaches that have been taken to this problem and the results that have come out of this. 
+	1. No need to be negative in this part: This isn't about why everything else is awful, but just what has already been accomplished, what we've learned from work done before by others (and potentially ourselves).
+3. **Nevertheless...** This is where you can identify the gap left by the previous work. For example may fit into one of these example categories:
+	1. Previous analyses got at an important question but not with the kind of data you are using, which may be more: detailed, contextually relevant, etc. 
+	2. Previous work used a methodological approach that was not able to get at some important dimension of the problem, over/under-stated variability in outcomes, etc.
+	3. Earlier work didn't address the broader context of the problem, i.e. too narrowly focused on a specific dataset or place and less on understanding the processes that cut across contexts.
+	4. **In this paper we will...** For the love of everything holy, please tell me what you are going to do before you do it. This is the point of departure for your reader on the journey that will be reading and metabolizing your paper: give them a map!
+		1. Use this part to mention the data you will use, i.e. where it comes from and what outcomes you are focusing in on.
+		2. Also describe the methods in brief - don't get into a ton of depth, but just mention what you're going to do and provide a 1-sentence justification.

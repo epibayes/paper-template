@@ -1,0 +1,15 @@
+# Results
+
+The point of the results section is to make the results of your analysis - parameter estimates, posterior predictions, model simulations - as clear as possible to the reader. The first part of that is figuring out the best way to communicate each relevant piece of information. I would boil this down into a set of simple-ish suggestions:
+
+## Figures and tables
+
+1. **If it can be conveyed visually, do it!** Prefer figures over tables and in-text descriptions where you can. This is subject to limitations that force you to prioritize what goes into a figure and what doesn't: How many figures are allowed by the journal? Is it enough information to take up a whole figure or would briefly mentioning it in the text be a better use of space?
+	1. **Figures and tables should stand on their own.** A reasonably informed reader should be able to get what is going on from looking at your figure and reading the legend, even if they haven't read the rest of the paper. This is not a hard-and-fast rule, but if you work towards it you will ensure that the figures convey as much information as possible.
+	2. **Each figure should make a clear point of its own.** If two independent figures convey overlapping information, try to combine them either into a single panel or multi-panel figure. But each full figure should touch on a single idea/result.
+2. **If you have to make a results table, keep it small and simple.** Big, complex tables are where reader attention goes to die. If information is best conveyed by a table, be sure to include the minimal set of results needed to make sense of what is going on. 
+
+## Writeup
+
+1. **Use the beginning of the results section to hit the highlights in the figures and tables.** Imagine you are explaining the figures to someone: What is the most important thing you want them to get from the figure? Talk about that in the beginning of the results section. Whatever you do, **do not recapitulate entire figures and tables**. They are part of your results, you can and should refer to them, but they should be complementary to what you are writing here not duplicative or completely disjointed from that.
+2. **Use the remaining text of the results section to provide information *not* in the figures.** What else is important to know that isn't camptured by a figure or table? Is there a single estimate from a side analysis that fills in the story but doesn't warrant a figure or table on its own? 
